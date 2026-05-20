@@ -1,0 +1,48 @@
+{
+	"Applications": [
+		{
+			"PID": 1,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 2,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 3,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 5,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 8,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 9,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 11,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 13,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 15,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 16,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		},
+		{
+			"PID": 18,
+			"Application": "C:\\Program Files\\Audient\\iD\\iD.exe"
+		}
+	]
+}
